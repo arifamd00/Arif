@@ -1,4 +1,4 @@
-# this is the program to rotate list k times, only fir if k is int, otherwise it returns 'list unchanges'
+# this is the program to rotate list k times, only for if k is int, otherwise it returns 'list unchanges'
 def rotatelist(list,k):
     if k >= 0:
         list1 = list[:]
